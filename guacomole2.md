@@ -5,3 +5,4 @@
  * Lime
  * Salt
 ##Instructions
+ * Cut avocado and remove pit
