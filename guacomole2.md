@@ -1,9 +1,9 @@
 
-#Guacomole
-##Ingredients
+# Guacomole
+## Ingredients
  * Avocado
  * Tomato
  * Lime
  * Salt
-##Instructions
+## Instructions
  * Cut avocado and remove pit
