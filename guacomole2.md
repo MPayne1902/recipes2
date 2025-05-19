@@ -7,3 +7,4 @@
  * Salt
 ## Instructions
  * Cut avocado and remove pit
+ * Mash inside of avocado
